@@ -1,0 +1,15 @@
+[user]
+        name = David Viktora 
+        email = viktora.david@gmail.com
+[color]
+        ui = auto
+[push]
+        default = simple
+[core]
+        editor = vim
+[alias]
+        st = status
+        ci = commit
+        co = checkout
+        br = branch
+        ll = log --oneline --graph --all --decorate
